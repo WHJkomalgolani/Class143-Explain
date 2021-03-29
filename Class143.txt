@@ -1,0 +1,6 @@
+For class143
+First run file main.py of class142.
+It may give error.
+So u need to install Moesif Origin & CORS Changer..
+After that run code of class 143.
+Output in web browser.
